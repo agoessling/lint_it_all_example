@@ -1,3 +1,5 @@
+MODULE.bazel.lock
+
 *.swp
 
 bazel-*
